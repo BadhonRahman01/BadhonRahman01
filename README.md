@@ -1,8 +1,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Badhon+Rahman....;Nice+to+meet+you!&center=true&size=28">
@@ -27,9 +25,6 @@
   <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a> -->
 </p>
 
-
-
-
 <!--   <p align="center" >  
   <a href="(https://github.com/BadhonRahman01)"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=BadhonRahman01&&show_icons=true&theme=dark"/>
@@ -45,7 +40,7 @@
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
    -->
   
-  
+ 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -81,11 +76,9 @@
     <a href="https://github.com/BadhonRahman01/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadhonRahman01&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
-  <br>
-  
-
+<br>
+ 
 </p>
-
 
 ---
 <p align="center">
