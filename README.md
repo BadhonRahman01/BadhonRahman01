@@ -10,9 +10,6 @@
 </h1>
 <h4 align="center">Hi, I'm Badhon Rahman, a Software Engineer from Bangladesh.  </h4>
 
-<br />
-<br />
-
 ## :link: Links
 <p align="center">
   <a href="https://profile4.trademajestic.com/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="badhonrahman"/></a>
@@ -31,10 +28,8 @@
 </p>
 
 
-<br />
-<br />
-<br />
-<br />
+
+
 <!--   <p align="center" >  
   <a href="(https://github.com/BadhonRahman01)"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=BadhonRahman01&&show_icons=true&theme=dark"/>
