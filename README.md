@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Badhon+Rahman....;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1>
-<h4 align="center">Hi, I'm Badhon Rahman, a Software Engineer from Bangladesh.  </h4>
+<h4 align="center">Hi, I'm Badhon Rahman, a Software Engineer from Finland  </h4>
 
 ## :link: Links
 <p align="center">
