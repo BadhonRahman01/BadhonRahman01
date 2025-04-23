@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/badhon-rahman/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <!--   <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a> -->
-  <a href="https://www.facebook.com/rahman.badhan/1"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
+  <a href="https://www.facebook.com/rahman.badhan"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
 <!--   <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
   <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a> -->
 <!--   <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a> -->
